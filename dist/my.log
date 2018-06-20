@@ -1,0 +1,135 @@
+[INFO ] 2018-06-05 19:50:38,979 com.webtest.util.Log - 
+[INFO ] 2018-06-05 19:51:43,758 com.webtest.util.Log - 
+[INFO ] 2018-06-05 19:52:12,243 com.webtest.util.Log - 
+[INFO ] 2018-06-05 19:53:07,504 com.webtest.util.Log - 
+[INFO ] 2018-06-05 19:55:42,509 com.webtest.util.Log - Using Firefox
+[INFO ] 2018-06-05 19:55:42,644 com.webtest.util.Log - firefox
+[INFO ] 2018-06-05 19:55:43,585 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='table1']/form/table/tbody/tr[1]/td[2]/input
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '10.7.87.247', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.gqfkh7EZj77k, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=868, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 8e7757c9-450c-44de-915a-9ffbb5dd3e9d
+*** Element info: {Using=xpath, value=.//*[@id='table1']/form/table/tbody/tr[1]/td[2]/input}
+[INFO ] 2018-06-05 19:55:43,700 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='table1']/form/table/tbody/tr[2]/td[2]/input
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '10.7.87.247', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.gqfkh7EZj77k, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=868, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 8e7757c9-450c-44de-915a-9ffbb5dd3e9d
+*** Element info: {Using=xpath, value=.//*[@id='table1']/form/table/tbody/tr[2]/td[2]/input}
+[INFO ] 2018-06-05 19:55:43,742 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='table1']/form/table/tbody/tr[3]/td[2]/input
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '10.7.87.247', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.gqfkh7EZj77k, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=868, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 8e7757c9-450c-44de-915a-9ffbb5dd3e9d
+*** Element info: {Using=xpath, value=.//*[@id='table1']/form/table/tbody/tr[3]/td[2]/input}
+[INFO ] 2018-06-05 19:55:43,802 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='table1']/form/table/tbody/tr[4]/td[2]/input
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '10.7.87.247', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.gqfkh7EZj77k, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=868, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 8e7757c9-450c-44de-915a-9ffbb5dd3e9d
+*** Element info: {Using=xpath, value=.//*[@id='table1']/form/table/tbody/tr[4]/td[2]/input}
+[INFO ] 2018-06-05 19:55:43,887 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='cmbProvince']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '10.7.87.247', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.gqfkh7EZj77k, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=868, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 8e7757c9-450c-44de-915a-9ffbb5dd3e9d
+*** Element info: {Using=xpath, value=.//*[@id='cmbProvince']}
+[INFO ] 2018-06-05 19:55:56,959 com.webtest.util.Log - Quitted Browser
+[INFO ] 2018-06-06 09:01:09,121 com.webtest.util.Log - Using Firefox
+[INFO ] 2018-06-06 09:01:09,183 com.webtest.util.Log - firefox
+[INFO ] 2018-06-06 09:01:09,390 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='table1']/form/table/tbody/tr[1]/td[2]/input
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '10.7.87.247', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.QSai2IXyzj1L, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=8972, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 5c41d116-57b5-4df4-9910-2096b130608a
+*** Element info: {Using=xpath, value=.//*[@id='table1']/form/table/tbody/tr[1]/td[2]/input}
+[INFO ] 2018-06-06 09:01:09,415 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='table1']/form/table/tbody/tr[2]/td[2]/input
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '10.7.87.247', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.QSai2IXyzj1L, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=8972, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 5c41d116-57b5-4df4-9910-2096b130608a
+*** Element info: {Using=xpath, value=.//*[@id='table1']/form/table/tbody/tr[2]/td[2]/input}
+[INFO ] 2018-06-06 09:01:09,434 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='table1']/form/table/tbody/tr[3]/td[2]/input
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '10.7.87.247', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.QSai2IXyzj1L, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=8972, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 5c41d116-57b5-4df4-9910-2096b130608a
+*** Element info: {Using=xpath, value=.//*[@id='table1']/form/table/tbody/tr[3]/td[2]/input}
+[INFO ] 2018-06-06 09:01:09,448 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='table1']/form/table/tbody/tr[4]/td[2]/input
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '10.7.87.247', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.QSai2IXyzj1L, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=8972, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 5c41d116-57b5-4df4-9910-2096b130608a
+*** Element info: {Using=xpath, value=.//*[@id='table1']/form/table/tbody/tr[4]/td[2]/input}
+[INFO ] 2018-06-06 09:01:09,473 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='cmbProvince']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '10.7.87.247', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.QSai2IXyzj1L, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=8972, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 5c41d116-57b5-4df4-9910-2096b130608a
+*** Element info: {Using=xpath, value=.//*[@id='cmbProvince']}
+[INFO ] 2018-06-06 09:01:16,847 com.webtest.util.Log - Quitted Browser
+[INFO ] 2018-06-06 09:01:25,836 com.webtest.util.Log - Using Firefox
+[INFO ] 2018-06-06 09:01:25,841 com.webtest.util.Log - firefox
+[INFO ] 2018-06-06 09:01:25,978 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='table1']/form/table/tbody/tr[1]/td[2]/input
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '10.7.87.247', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.wNeNY6SMtqvg, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=1212, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 512f2dd8-be89-4d37-b3da-7bae374349aa
+*** Element info: {Using=xpath, value=.//*[@id='table1']/form/table/tbody/tr[1]/td[2]/input}
+[INFO ] 2018-06-06 09:01:25,995 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='table1']/form/table/tbody/tr[2]/td[2]/input
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '10.7.87.247', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.wNeNY6SMtqvg, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=1212, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 512f2dd8-be89-4d37-b3da-7bae374349aa
+*** Element info: {Using=xpath, value=.//*[@id='table1']/form/table/tbody/tr[2]/td[2]/input}
+[INFO ] 2018-06-06 09:01:26,020 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='table1']/form/table/tbody/tr[3]/td[2]/input
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '10.7.87.247', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.wNeNY6SMtqvg, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=1212, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 512f2dd8-be89-4d37-b3da-7bae374349aa
+*** Element info: {Using=xpath, value=.//*[@id='table1']/form/table/tbody/tr[3]/td[2]/input}
+[INFO ] 2018-06-06 09:01:26,037 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='table1']/form/table/tbody/tr[4]/td[2]/input
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '10.7.87.247', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.wNeNY6SMtqvg, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=1212, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 512f2dd8-be89-4d37-b3da-7bae374349aa
+*** Element info: {Using=xpath, value=.//*[@id='table1']/form/table/tbody/tr[4]/td[2]/input}
+[INFO ] 2018-06-06 09:01:26,053 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='cmbProvince']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '10.7.87.247', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.wNeNY6SMtqvg, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=1212, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 512f2dd8-be89-4d37-b3da-7bae374349aa
+*** Element info: {Using=xpath, value=.//*[@id='cmbProvince']}
+[INFO ] 2018-06-06 09:01:32,365 com.webtest.util.Log - Quitted Browser
+[INFO ] 2018-06-06 10:51:19,484 com.webtest.util.Log - Using Firefox
+[INFO ] 2018-06-06 10:51:19,534 com.webtest.util.Log - firefox

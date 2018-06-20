@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Test">
+		<classes>
+			<class name="com.manage.ManageLogin"></class>
+			<class name="com.manage.ManageHomepage">
+				<methods>
+					<include name="courseBrief"></include>
+					<include name="forbiddenUser"></include>
+					<include name="checkOrMn"></include>
+					<include name="forbiddenOr"></include>
+				</methods>
+			</class>
+			<class name="com.training.TrainingRegiter"></class>
+			<class name="com.training.TrainingLogin"></class>
+			<class name="com.training.AddCourse"></class>
+			<class name="com.training.ManageCourse"></class>
+			<class name="com.training.TrainingManage"></class>
+			<class name="com.training.TrainingResult"></class>
+			<class name="com.user.UserRegister"></class>
+			<class name="com.user.UserLogin"></class>
+			<class name="com.user.UserResearch">
+				<methods>
+					<include name="ResearchCourse"></include>
+					<include name="ResearchTraining"></include>
+				</methods>
+			</class>
+			<class name="com.user.UserCollection"></class>
+			<class name="com.user.UserMessage"></class>
+			<class name="com.user.UserPassword"></class>
+
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

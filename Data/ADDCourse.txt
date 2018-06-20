@@ -1,0 +1,2 @@
+courseName	price	teacher	phoneNumber	courseBrief
+测试基础	300	张三	0123456789	课程简介		
