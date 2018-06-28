@@ -14,7 +14,7 @@ public class TrainingLogin extends BaseTest{
 	}
 	@Test
 	public void loginsuccess() {
-//		��ѵ������¼�ɹ�
+//		培训机构登录成功
 		webtest.type("name=username", "abc@163.com");
 		webtest.type("name=password", "123456");
 		webtest.click("xpath=.//*[@id='words']/div[3]/button[2]");

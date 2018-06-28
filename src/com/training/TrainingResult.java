@@ -12,7 +12,7 @@ public class TrainingResult extends BaseTest{
 	}
 	@Test
 	public void inquireResult() {
-//		��ѯ�Ƿ����ͨ��
+//		查询是否审核通过
 		webtest.click("xpath=.//*[@id='out']/form/div/input");
 	}
 

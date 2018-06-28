@@ -13,7 +13,7 @@ public class TrainingRegiter extends BaseTest{
 	}
 	@Test
 	public void regiter() {
-//		��ѵ����ע����Ϣ�ύ�ɹ�
+//		培训机构注册信息提交成功
 		webtest.type("xpath=.//*[@id='table1']/form/table/tbody/tr[1]/td[2]/input", "ѩ��");
 		webtest.type("xpath=.//*[@id='table1']/form/table/tbody/tr[2]/td[2]/input", "abc@163.com");
 		webtest.type("xpath=.//*[@id='table1']/form/table/tbody/tr[3]/td[2]/input", "123456");

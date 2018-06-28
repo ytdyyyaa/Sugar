@@ -15,6 +15,7 @@ public class AddCourse extends BaseTest{
 	}
 	@Test(dataProvider = "course", dataProviderClass = ADDcourse.class)
 	public void addcourse(String courseName,String price,String teacher,String phoneNumber,String courseBrief) {
+//		培训机构添加课程
 		webtest.type("name=courseName", courseName);
 		webtest.getSelect("xpath=.//*[@id='form']/table/tbody/tr[2]/td[2]/select").selectByVisibleText("0");
 		webtest.getSelect("xpath=.//*[@id='form']/table/tbody/tr[3]/td[2]/select").selectByVisibleText("0");

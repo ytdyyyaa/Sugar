@@ -12,6 +12,7 @@ public class ManageLogin extends BaseTest{
 	}
 	@Test
 	public void bgLogin() {
+//		成功登录
 		webtest.type("name=adminname", "admin");
 		webtest.type("name=password", "1234");
 		webtest.click("xpath=html/body/div[2]/form/input");

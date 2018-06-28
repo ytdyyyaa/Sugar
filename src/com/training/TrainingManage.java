@@ -14,8 +14,8 @@ public class TrainingManage extends BaseTest{
 	}
 	@Test
 	public void manageIntro() {
-//		������ѵ�����ļ�飬����ɹ�
-		webtest.type("name=brief", "ѩ�������һ��������Ƶѧϰ��վ");
+//		输入培训机构的简介，保存成功
+		webtest.type("name=brief", "雪梨是一个在线IT学习网站");
 		webtest.click("xpath=.//*[@id='out']/div[2]/div/form/div/button");
 	}
 }

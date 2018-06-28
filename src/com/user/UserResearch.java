@@ -18,7 +18,7 @@ public class UserResearch extends BaseTest{
 	}
 	@Test
 	public void ResearchTraining() {
-		webtest.click("xpath=html/body/div[1]/div[3]/a");//������ҳ
+		webtest.click("xpath=html/body/div[1]/div[3]/a");
 		webtest.click("xpath=html/body/div[1]/div[1]/div/div[5]/form/div/a");
 		webtest.click("xpath=html/body/div[1]/div[2]/ul/li[2]/a");
 		webtest.type("xpath=.//*[@id='content_course']", "ѩ��");
